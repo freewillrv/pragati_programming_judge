@@ -1,5 +1,5 @@
-127.0.0.1
-database_name
-username
-password
-port_no
+127.0.0.1 #Change this if not localhost
+pragati_rahul
+username #Change this
+password #Change this
+port_no  #Change this
