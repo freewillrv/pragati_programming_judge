@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Pragati_Judge_C_Client">
+</Property><Property Name="Solution File" Value="D:\My Projects\Pragati_Judge\Pragati_C_Wizards_Net_CLient\Pragati_Judge_C_Client.sln">
+</Property><Property Name="Date" Value="Friday, September 09, 2011">
+</Property><Property Name="Time" Value="10:40 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Pragati_Judge_Client_C" Source="Pragati_Judge\Pragati_Judge_Client_C.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Pragati_Judge_Client_C" Source="Pragati_Judge\Pragati_Judge_Client_C.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Pragati_Judge_C_Client.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Pragati_Judge_C_Client.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Pragati_Judge_Client_C" Source="Pragati_Judge\Pragati_Judge_Client_C.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
