@@ -1,5 +1,5 @@
 # Pragati - I Judge
-This project was created when I was in College. This was used to automate the C programming contest. Anyone who needs to use this for their college C programming contest can Use this. Note : This can easily be modified to work for JAVA programs as well. Which we did.
+This project was created when I was in College. This was used to automate the C programming contest. Anyone who needs to use this for their college C programming contest can Use this. Note : This can easily be modified to work for JAVA programs as well ,which we did.
 
 # What is in a name ? (Pragati)
 "Pragati" is the name of the Techfest of our Engineering College. ( A Private Engineering College in West Bengal, India) . It means PROGRESS
